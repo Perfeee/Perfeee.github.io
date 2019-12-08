@@ -4,7 +4,7 @@ layout: default
 
 _城外的人想进去，城里的人想进来。_
 
-# [About English](./another-page.html).
+# [About English](./english_post.html)
 
 
 # [About Code]
@@ -13,4 +13,4 @@ _城外的人想进去，城里的人想进来。_
 # [About Life]
 
 
-##### [EXAMPLE PAGE](./example_index.md)
+##### [EXAMPLE PAGE](./example_index.html)
